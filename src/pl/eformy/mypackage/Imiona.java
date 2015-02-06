@@ -16,4 +16,8 @@ public class Imiona {
     public String getKinia() {
         return "Kinia";
     }
+
+    public String getMaja() {
+        return "Maja";
+    }
 }

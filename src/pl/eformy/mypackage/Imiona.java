@@ -20,4 +20,8 @@ public class Imiona {
     public String getMaja() {
         return "Maja";
     }
+
+    public String getIrenka() {
+        return "Irenka";
+    }
 }

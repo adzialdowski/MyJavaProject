@@ -12,4 +12,8 @@ public class Imiona {
     public String getWiolka() {
         return "Wiolka";
     }
+
+    public String getIrenka() {
+        return "Irenka";
+    }
 }
